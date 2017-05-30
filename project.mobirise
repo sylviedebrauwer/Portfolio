@@ -25,7 +25,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 33
+    "uniqCompNum": 36
   },
   "pages": {
     "werk.html": {
@@ -111,6 +111,129 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Lenteposter 2015",
+          "meta": "Deadline: op 1 dag moeten maken"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893-800x1157.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893-800x1157.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893-800x1157.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893-800x1157.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893-800x1157.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893-800x1157.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893-800x1157.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893-800x1157.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-05-29-om-23-2000x2893.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-y",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_tags": [

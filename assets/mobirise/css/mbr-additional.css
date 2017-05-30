@@ -421,6 +421,10 @@ h6,
 #slider3-e P {
   text-align: left;
 }
+#header3-z .mbr-section-title,
+#header3-z .mbr-section-subtitle {
+  text-align: center;
+}
 #slider2-h .mbr-section-title,
 #slider2-h .mbr-section-lead {
   color: #fff;
